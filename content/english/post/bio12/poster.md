@@ -8,8 +8,7 @@ tags = [
 ]
 +++
 
-Check out this [R](file:///Users/yanitrevino/Downloads/My%20Summer'22%20R%20Notebook.nb.html) I just made!
+Check out this [R Notebook](My%20Summer'22%20R%20Notebook.nb.html) I just made!
+Check out this [Poster](my poster.pdf) I just made!
 
-Here is a paragraph or two introducing the Notebook - explain what you were working on, why you're interested, and/or what the most exciting results are.
-
-This demo Notebook is just illustrating what an R Notebook looks like and how to link to it.
+![](my poster.pdf)
