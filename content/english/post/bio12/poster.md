@@ -8,7 +8,7 @@ tags = [
 ]
 +++
 
-Check out this [R Notebook](My%20Summer'22%20R%20Notebook.nb.html) I just made!
+Check out this [R Notebook](My Summer'22 R Notebook.nb.html) I just made!
 Check out this [Poster](my poster.pdf) I just made!
 
 ![](my poster.pdf)
