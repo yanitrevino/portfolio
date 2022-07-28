@@ -1,7 +1,7 @@
 +++
 title = "About"
-description = "C-MOOR portfolio site"
+description = "About Yani Trevino"
 date = "2021-05-24"
 +++
 
-This is a "hello world" example portfolio website for [C-MOOR](https://github.com/C-MOOR). The theme was forked from [lxndrblz/anatole](https://github.com/lxndrblz/anatole).  Theme and example content were modified by [Katherine Cox](https://github.com/KatherineCox) for use by C-MOOR learners.
+I am currently an undergraduate student at Clovis Community College working towards an AS-T in biology. Included I have assembled a portfolio of research projects from my time so far at Clovis Community in biology and chemsitry.
