@@ -1,6 +1,6 @@
 +++
 author = "Yani Trevino"
-title = "R Notebook post"
+title = "Genomics Research Project"
 date = "2022-07-28"
 description = "Check out this cool R Notebook I made!"
 tags = [
