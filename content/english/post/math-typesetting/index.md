@@ -4,7 +4,7 @@ title = "Tap Water Research Project"
 date = "2022-07-28"
 description = "Check out this poster I made!"
 tags = [
-    "R"
+    "spectrophotometry"
 ]
 +++
 
