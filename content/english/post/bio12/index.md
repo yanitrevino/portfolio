@@ -11,4 +11,4 @@ tags = [
 Check out this [R Notebook](su22_r_notebook.nb.html) I just made!
 Check out this [Poster](my_poster.pdf) I just made!
 
-![](my poster.pdf)
+
