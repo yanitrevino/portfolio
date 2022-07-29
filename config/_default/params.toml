@@ -11,11 +11,12 @@ customCss = []
 # example ["js/custom.js"]
 customJs = []
 mainSections = ["post"]
-images = ["preview_image.png"]
+images = ["preivew_image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
 # contactFormAction = "https://formspree.io/f/your-form-hash-here"
-# Google Site Verify
+# Google Site Ve
+rify
 #googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 singleDateFormat = "2/1/2006"
 indexDateFormat = "2/1/2006"
