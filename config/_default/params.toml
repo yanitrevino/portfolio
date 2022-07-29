@@ -15,8 +15,7 @@ images = ["preivew_image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
 # contactFormAction = "https://formspree.io/f/your-form-hash-here"
-# Google Site Ve
-rify
+# Google Site Verify
 #googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 singleDateFormat = "2/1/2006"
 indexDateFormat = "2/1/2006"
